@@ -47,7 +47,7 @@ The `Tutorials` directory contains two subdirectories: (1) `Intro-Modules` and (
 
 The final project will be a collaborative effort. We expect each group member to contribute their best in completing their assigned section of the project. However, we understand that many participants may not have prior experience in programming or computer science. Therefore, please don’t feel stressed if you’re unable to complete all the tasks. Just do your best and support your team where you can. We encourage collaboration among team members, but we strongly discourage anyone from taking over or completing tasks assigned to other group members.
 
-AI assistants like ChatGPT and Gemini are becoming more common in everyday work. Learning how to use AI effectively is becoming just as important as learning to code. Hence, using AI or online resources is permitted.
+AI assistants like ChatGPT and Gemini are becoming more common in everyday work. Learning how to use AI effectively is becoming just as important as learning to code. Hence, using AI or online resources to aid your own creative and intellectual work is permitted. For example, using it to help you write a python function that you describe and design, as well as integrate yourself and test yourself. Do not run any AI-generated code without vetting it yourself. You are responsible for any code that you run on a system, regardless of if an AI model wrote it for you.
 
 ## Next Step: 
 `BuildingsBenchTutorial/Tutorials/Intro-Modules/Readme.md`
@@ -61,4 +61,5 @@ AI assistants like ChatGPT and Gemini are becoming more common in everyday work.
 ## Authors
 
 - Nrushad Joshi (ntj@ornl.gov)  
-- Suzanne Parete-Koon
+- Suzanne Parete-Koon, OLCF
+- Lipi Gupta, NERSC
