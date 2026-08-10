@@ -14,7 +14,6 @@ Please fill out this table with best model you have selected for your assigned d
 | ideal       |        |                     |           |        |          |     |     |                |
 | electricity |        |                     |           |        |          |     |     |                |
 | lcl         |        |                     |           |        |          |     |     |                |
-| sceaux      |        |                     |           |        |          |     |     |                |
 | borealis    |        |                     |           |        |          |     |     |                |
 ```
 
